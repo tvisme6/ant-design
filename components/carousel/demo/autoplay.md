@@ -18,10 +18,10 @@ import { Carousel } from 'antd';
 
 ReactDOM.render(
   <Carousel autoplay>
-    <div><h3>1</h3></div>
-    <div><h3>2</h3></div>
-    <div><h3>3</h3></div>
-    <div><h3>4</h3></div>
+    <div><h3>THE ONE</h3></div>
+    <div><h3>THE SECEND</h3></div>
+    <div><h3>第三章</h3></div>
+    <div><h3>去你妈的</h3></div>
   </Carousel>,
   mountNode);
 ````
@@ -32,7 +32,7 @@ ReactDOM.render(
   text-align: center;
   height: 160px;
   line-height: 160px;
-  background: #364d79;
+  background: pink;
   overflow: hidden;
 }
 
